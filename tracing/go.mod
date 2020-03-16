@@ -1,4 +1,4 @@
-module github.com/cbsinteractive/pkg/tracing
+module github.com/zsiec/pkg/tracing
 
 go 1.13
 
