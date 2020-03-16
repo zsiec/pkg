@@ -1,4 +1,4 @@
-module github.com/cbsinteractive/pkg/xrayutil
+module github.com/zsiec/pkg/xrayutil
 
 go 1.13
 
